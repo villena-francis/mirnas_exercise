@@ -1,0 +1,57 @@
+miRNA ANALYSIS SUMMARY
+===================================================
+Analysis date: abril 02, 2025
+
+1. Analyzed miRNAs:
+   - hsa-miR-33a-5p
+   - hsa-miR-33b-5p
+   - hsa-miR-144-3p
+   - hsa-miR-758-3p
+   - hsa-miR-17-5p
+
+2. Number of targets per miRNA:
+   - hsa-miR-33a-5p : 8783 targets
+   - hsa-miR-33b-5p : 8212 targets
+   - hsa-miR-144-3p : 6082 targets
+   - hsa-miR-758-3p : 5588 targets
+   - hsa-miR-17-5p  : 12306 targets
+
+3. miRNA with most targets: hsa-miR-17-5p (12306 targets)
+4. miRNA with fewest targets: hsa-miR-758-3p (5588 targets)
+
+5. Common targets across all miRNAs:
+   Total: 1803 common targets
+   Top 10 common targets (alphabetically):
+   - AAK1
+   - ABCA1
+   - ABCA5
+   - ABCC12
+   - ABCC5
+   - ABCD3
+   - ABHD2
+   - ABI2
+   - ABL2
+   - ACACA
+
+6. Enrichment analysis results:
+   - Significant GO (Biological Process) terms: 722
+   - Atherosclerosis-relevant GO terms: 152
+   - Significant KEGG pathways: 95
+   - Atherosclerosis-relevant KEGG pathways: 40
+
+7. Top enriched biological processes (top 5):
+   1. Wnt signaling pathway (p-adj=1.357e-07)
+   2. regulation of Wnt signaling pathway (p-adj=3.446e-07)
+   3. insulin receptor signaling pathway (p-adj=4.696e-07)
+   4. regulation of cell-matrix adhesion (p-adj=1.548e-06)
+   5. cellular response to insulin stimulus (p-adj=2.023e-06)
+
+8. Top enriched KEGG pathways (top 5):
+   1. Focal adhesion (p-adj=9.966e-05)
+   2. Thyroid hormone signaling pathway (p-adj=2.140e-04)
+   3. PI3K-Akt signaling pathway (p-adj=2.140e-04)
+   4. ErbB signaling pathway (p-adj=2.477e-04)
+   5. Regulation of actin cytoskeleton (p-adj=4.369e-04)
+
+===================================================
+End of summary
