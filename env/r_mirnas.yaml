@@ -1,0 +1,18 @@
+name: r_mirnas
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-base
+  - bioconductor-multimir
+  - bioconductor-clusterprofiler
+  - bioconductor-org.hs.eg.db
+  - bioconductor-enrichplot
+  - bioconductor-biomart
+  - bioconductor-biobase
+  - bioconductor-dose
+  - bioconductor-biocparallel
+  - r-venndiagram
+  - r-dplyr
+  - r-ggplot2
