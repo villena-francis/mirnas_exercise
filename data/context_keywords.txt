@@ -1,0 +1,53 @@
+# Cholesterol and lipid metabolism
+cholesterol
+lipid
+sphingo
+phospholipid
+sterol
+foam cell
+efflux
+ABCA
+ABCG
+LDL
+HDL
+lipoprotein
+
+# Inflammatory response and cells
+macrophage
+inflamm
+athero
+cytokine
+plaque
+
+# Transport and signaling
+transport
+receptor
+calcium
+signaling
+
+# Key pathways identified
+PI3K
+Akt
+MAPK
+TGF
+mTOR
+ubiquitin
+
+# Vascular aspects
+vascular
+endotheli
+smooth muscle
+foam
+adhesion
+
+# Cellular/tissue remodeling
+matrix
+cytoskeleton
+actin
+remodel
+
+# Related comorbidities
+insulin
+diabetes
+hypertension
+cardiomyopathy
