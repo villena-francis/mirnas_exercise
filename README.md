@@ -4,7 +4,7 @@ A simple script to demonstrate the capabilities of R for searching miRNA targets
 
 ## Usage
 
-### 1. Download visor-simulations from GitHub
+### 1. Download the repo from GitHub
 
 Use the git clone command to create a local copy of the repository.
 
